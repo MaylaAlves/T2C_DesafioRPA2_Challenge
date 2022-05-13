@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="R7qoY7r-8UqN9DeMYWECmg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://rpachallenge.azurewebsites.net/" DesignTimeRectangle="727, 292, 253, 46" ElementType="InputBox" FriendlyName="'INPUT emYUj'" FullSelectorArgument="&lt;webctrl id='emYUj' tag='INPUT' /&gt;" FuzzySelectorArgument="&lt;webctrl id='emYUj' tag='INPUT' type='' class='ng-untouched ng-pristine ng-invalid' aaname='' /&gt;" Guid="5eebbaa8-c452-4de8-88b0-42cf0e6d9795" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAQEAAAAyCAYAAABcdW5KAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAC3SURBVHhe7dZBDQAwDAOx8QdRqt1rI3G2FAqnnAXSRADiRADiRADiRADiRADiRADiRADiRADiRADiRADiRADiRADiRADiRADiRADiRADiRADiRADiRADiRADiRADiRADiRADiRADiRADiRADiRADiRADiRADiRADiRADiRADiRADiRADiRADiRADiRADiRADiRADiRADiRADiRADiRADiRADiRADiRADifgRmxsxCezwBiBMBSNu99n/rPHUAwbwAAAAASUVORK5CYII=" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Rpa Challenge' /&gt;" SearchSteps="FuzzySelector" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="727, 272, 33, 17" ElementType="Text" FriendlyName="'Email'" FullSelectorArgument="&lt;webctrl aaname='Email' tag='LABEL' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Email' tag='LABEL' type='' class='' check:innerText='Email' /&gt;" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAACUAAAAVCAYAAADB5CeuAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGUSURBVEhL7ZPLaoNAFIb7/g8xJEQIqYuSG4rF4GLARZAmBAQLUqlUIrWUmiIYUv7OjJPElJQaSUgXfnDgjGcu31y8wT+kkapKI1WV60itN9jI9Bh7qTyG77pwSxF+yNpZiWH3CNTpu2j5lgLLF+mOvdSrDbWjQrs3YMiYRbJ2ZrJlgDgrck8n0Lwi33IodWsjkc0dKw+UeoifHVi6xqQpZks+Y4Z4TqENR9AsB8Gq6L4lDVh/sTnWP0oRPhigj6moRSzfbrieFP/eIlDGDsK3BOHcQLelwtD76HPZVQxvooIoJoKvYkgy5e0+qBsiWbJNDVQoCrsyu5i9LPK3VPn62IJiX+K7CV8uyAkmbZDhArlsF++kDfOJ5wHMThf0RRQkEWi3rlSPsmtIkfL4lEseOcHEZiehH860m5z3Jxp+rCPq9aR+u75TpPIFRmSExf4YGTkWw2tKcYExe4O6i1ReeRpY7PTqSrGBpBSi88lSjCwEvWPvrtWG0mExcGBrdaQuwTpHXvpBqnJZqZo0UlVppKoBfANUTrHfTO2kcAAAAABJRU5ErkJggg==" SearchSteps="FuzzySelector, Image" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="10ca131967b103230e741fe98c5de57d.png" xmlns="">0in44TGWGr0C3q_J334Pncg</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

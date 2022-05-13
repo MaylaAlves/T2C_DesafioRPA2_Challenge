@@ -1,0 +1,16 @@
+﻿{
+  "Id": "imeo5cq3eEu7dJS2GaCwXw",
+  "Reference": "O4jLN6JwbkOSR98rke7V9g/imeo5cq3eEu7dJS2GaCwXw",
+  "ParentRef": "O4jLN6JwbkOSR98rke7V9g/sN03fImxV0SHWqfejibd3Q",
+  "Name": "CompanyName",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2022-05-13T16:10:16.6093295Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-05-13T16:11:16.2630802Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

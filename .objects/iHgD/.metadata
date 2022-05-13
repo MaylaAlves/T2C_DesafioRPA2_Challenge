@@ -1,0 +1,11 @@
+﻿{
+  "Id": "iHgD26B_5UupDHNwXRXE8A",
+  "Reference": "O4jLN6JwbkOSR98rke7V9g/iHgD26B_5UupDHNwXRXE8A",
+  "Name": "NavegadorRPA",
+  "Type": "App",
+  "Created": "2022-05-13T15:51:40.6375334Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-05-13T15:51:40.6375334Z"
+}

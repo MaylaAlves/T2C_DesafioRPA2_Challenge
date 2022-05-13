@@ -1,0 +1,16 @@
+﻿{
+  "Id": "dRLi_mGFhUGk57nBQ5VXOA",
+  "Reference": "O4jLN6JwbkOSR98rke7V9g/dRLi_mGFhUGk57nBQ5VXOA",
+  "ParentRef": "O4jLN6JwbkOSR98rke7V9g/sN03fImxV0SHWqfejibd3Q",
+  "Name": "Start",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2022-05-13T16:18:50.2510457Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-05-13T16:19:53.8253478Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

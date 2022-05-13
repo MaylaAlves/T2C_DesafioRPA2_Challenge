@@ -1,0 +1,17 @@
+﻿{
+  "Id": "6oOJOHmnsEamFtvpHGwFmA",
+  "Reference": "O4jLN6JwbkOSR98rke7V9g/6oOJOHmnsEamFtvpHGwFmA",
+  "ParentRef": "O4jLN6JwbkOSR98rke7V9g/sN03fImxV0SHWqfejibd3Q",
+  "Name": "FirstName",
+  "Description": "Campo para inserir o primeiro nome.",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2022-05-13T15:54:29.1587964Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-05-13T17:03:26.0483241Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
